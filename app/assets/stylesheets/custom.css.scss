@@ -6,3 +6,21 @@ body {
   background: #D8D8D8;
   color: #791e9e;
 }
+
+.article-title, .article-body {
+  padding-left: 20px;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.article-body {
+  font-size: 15px;
+}
+
+#new-article-btn {
+  margin-bottom: 10px;
+}
