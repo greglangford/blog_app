@@ -65,3 +65,16 @@ body {
   color: #468847;
   text-align: left;
 }
+
+.comment-body, .comment-time {
+  margin-left: 2em;
+}
+
+.comment-body {
+  font-size: x-large;
+}
+
+.comment-time {
+  font-style: italic;
+  font-size: large;
+}
